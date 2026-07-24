@@ -8,5 +8,15 @@ npm-debug.log*
 Thumbs.db
 .vscode/
 .idea/
+.cursor/
 coverage/
 dist/
+.cache/
+.nyc_output/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.crt
